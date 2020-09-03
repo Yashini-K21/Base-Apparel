@@ -156,11 +156,8 @@ form.error small {
 
 	h1 {
 		font-size: 40px;
+		text-align:center;
 	}
-
-	h1 span{
-		font-display: justify;
-    }
 	
 	.ab {
 		width: 100%;
